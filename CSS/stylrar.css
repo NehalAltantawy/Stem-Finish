@@ -1,0 +1,169 @@
+/* Start About */
+.arabImg{
+    padding-right: 100px;
+}
+
+@media (min-width: 800px) and (max-width: 1280px){
+    .arabImg{
+        padding-right: 10%;
+        padding-left: 0% !important;
+    }
+}
+
+@media (min-width: 412px) and (max-width: 900px){
+    .arabImg{
+        padding-right: 3%;
+    }
+}
+/* End About */
+
+/* Start Courses */
+.arabIcon{
+    margin-left: -96%;
+}
+
+.arabic{
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+@media (min-width: 800px) and (max-width: 1280px){
+    .arabIcon{
+        margin-left: -99%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .arabIcon{
+        margin-left: -93%;
+    }
+}
+
+@media (min-width: 412px) and (max-width: 900px){
+    .arabIcon {
+        padding-left: 40%;
+    }
+    .arabClock{
+        padding-left: 35%;
+    }
+}
+
+/* End Courses */
+
+/* Start location */
+.arabInfo{
+    margin-right: -8%;
+    margin-left: 7%;
+}
+
+.infoIcon{
+   float: left;
+   margin-top: 14px;
+}
+
+.arabLocList{
+    margin-right: 4px;
+}
+.arabHeading{
+    margin-left: 18%;
+}
+
+@media (min-width: 800px) and (max-width: 1280px){
+    .arabInfo{
+        margin-left: 5% ;
+    }
+    .arabLocList{
+        margin-right: 28px;
+        margin-left: -25%;
+    }
+    .arabHeading{
+        margin-left: -2%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .arabInfo{
+        margin-left: 5% !important;
+    }
+    .arabLocList{
+        margin-right: 6px;
+        margin-left: -22%;
+    }
+    .arabHeading{
+        margin-left: 4%;
+    }
+}
+
+@media (min-width: 412px) and (max-width: 900px){
+    .arabInfo{
+        margin-left: 40% !important;
+        float: right;
+    }
+    .arabLocList{
+        float: right;
+        margin-left: 10%;
+    }
+    .arabHeading{
+        float: right;
+        margin-right: 22%;
+    }
+}
+/* End location */
+
+
+/* Start Footer */
+.arabFooter{
+    margin-right: 25%;
+}
+@media (min-width: 800px) and (max-width: 1280px){
+    .arabLogo{
+        margin-right: -5%;
+    }
+}
+@media (min-width: 412px) and (max-width: 900px){
+    .arabFooter{
+        margin-right: 12%;
+    }
+    .arabLogo{
+        margin-right: -27%;
+    }
+}
+
+/* End Footer */
+
+/* Start Contact-Us */
+.arabContact{
+    float: right;
+    margin-right: 76px;
+}
+@media (min-width: 412px) and (max-width: 900px){
+    .arabContact{
+        margin-right: 0%;
+    }
+}
+/* End Contact-Us */
+
+/*Start Our-Course */
+
+.arabCourse{
+    margin-right: 79%;
+}
+
+.spanCourse{
+    text-align: justify;
+    margin-right: 20%;
+}
+
+.arabGlobe{
+    margin-left: -3% !important;
+}
+@media (min-width: 412px) and (max-width: 900px){
+    .arabCourse {
+        margin-right: 60%;
+    }
+    .spanCourse {
+        margin-right: -17%;
+        padding-left: 16% !important;
+    }
+}
+/*End Our-Course */
